@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "Ваш openai токет"
 
 def get_response(prompt: str, context:str) -> str:
     """
